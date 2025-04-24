@@ -14,9 +14,15 @@ The solution is developed in Python using Jupyter Notebooks, with models includi
 
 ---
 ### GitHub Repository content
-- The Cleaned Dataset - telco_churn_cleaned.csv
-- Taco-Tel's Churn Prediction Model - Taco-Tel Churn Prediction Model.ipynb
-- Previously Submited Taco-Tel's Exploratory Notebook - Taco-Tel Churn Prediction Data Exploration.ipynb
+- telco_churn_cleaned.csv - The Cleaned Dataset
+- Taco-Tel Churn Prediction Reports and Dashboard.ipynb - Reports and Dashboard
+- Taco-Tel Churn Prediction Model.ipynb - the prediction model 
+- gbdt_model.pkl - the saved GBDT model
+- gbdt_features.pkl - the saved features of the GBDT model
+- Taco-Tel Churn Prediction Data Exploration.ipynb - the Data Exploration code
+- .gitignore.txt
+- requirments.txt
+- README.md
   
 ---
 ### Dataset Overview
